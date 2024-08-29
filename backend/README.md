@@ -1,4 +1,4 @@
-# mysql 操作
+# mysql Command
 
 ```bash
 brew install mysql
@@ -8,7 +8,7 @@ brew serices start mysql
 mysql
 ```
 
-## To load data
+## To Load Data
 
 ```bash
 mkdir -p /ChemNexus/data/output_pngs
