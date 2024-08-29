@@ -4,7 +4,7 @@ This repository contains the data in CLC-DB and codes of the online webserver.
 
 The site of CLC-DB is https://compbio.sjtu.edu.cn/services/clc-db.
 
-![fig0](D:\github\clc-db\fig0.png)
+![fig0](fig0.png)
 
 ## Dataset
 
@@ -14,7 +14,7 @@ The files in sdf format are optimized molecule 3D conformations.
 
 ## Help of the Online Webserver
 
-CLC-DB constructed an online webserver using the Python-based Django framework, achieving the separation of the front-end and back-end. Details of the database running commands are recorded in the README files of both the **frontend** and **backend** folders.
+CLC-DB constructs an online webserver using the Python-based Django framework, achieving the separation of the front-end and back-end. Details of the database running commands are recorded in the README files of both the **frontend** and **backend** folders.
 
 ## Citing CLC-DB
 
