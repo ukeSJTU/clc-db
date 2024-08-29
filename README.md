@@ -8,7 +8,7 @@ The site of CLC-DB is https://compbio.sjtu.edu.cn/services/clc-db.
 
 ## Dataset
 
-All data in CLC-DB is stored in the **data** folder and within the constructed database files.
+All data in CLC-DB is stored in the **data** folder and within the constructed database files. The full chiral molecule dataset is freely available under a CC-BY-NC 4.0 license (https://creativecommons.org/licenses/by/4.0).
 
 The files in sdf format are optimized molecule 3D conformations.
 
