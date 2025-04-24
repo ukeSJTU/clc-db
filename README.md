@@ -20,5 +20,5 @@ CLC-DB constructs an online webserver using the Python-based Django framework, a
 
 If you use the data and online tools of CLC-DB or code of server, please cite:
 
-> Yu G, Yu K, Wang X, Huo X, Yang Y. CLC-DB: an open-source online database of chiral ligands and catalysts. ChemRxiv. 2024; doi:10.26434/chemrxiv-2024-h2rdl-v2.
+> Yu, G., Yu, K., Wang, X. *et al.* Clc-db: an open-source online database of chiral ligands and catalysts. *J Cheminform* **17**, 45 (2025).
 
